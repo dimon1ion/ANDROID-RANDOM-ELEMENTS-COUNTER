@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MW_Random_Elements</string>
+    <string name="click">Клик!</string>
+    <string name="hello">Здрасте</string>
+    <string name="hi">Привет</string>
+    <string name="why">Почему?</string>
+    <string name="joke">Шутка?</string>
+    <string name="pls_stop">Пжлста Остановись</string>
+    <string name="close_app">Закрыть приложение</string>
+    <string name="restart">Перегрузить</string>
+    <string name="start">Начать</string>
+    <string name="played_out">доигрался</string>
+    <string name="count">"Количество: "</string>
+</resources>
